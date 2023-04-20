@@ -1,5 +1,10 @@
 # Hi there,  I'm Toma Kakizaki👋
 
+## Goals for this year (2023)
+- Master the use of GitHub
+- Gain experience at AI/ML startups
+- Publish a research paper
+
 ## Career
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
   - Student at Department of Computer Science and Engineering (2017/04 ~ 2022/03)
@@ -9,9 +14,6 @@
   - Human Resources Projects member (2023/04 ~ present)
 - 👨‍💻Responsible for updating the [GCI(東京大学グローバル消費インテリジェンス寄附講座)](https://gci.t.u-tokyo.ac.jp/) (2023/03 ~ present)
   - GCI = a data science lecture provided by the Matsuo Lab at the University of Tokyo.
-
-## Skill
-- 
 
 ## Research Interests
 - Passionate about AI/ML applications in the field of education.
