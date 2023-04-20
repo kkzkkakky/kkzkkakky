@@ -1,8 +1,5 @@
 # Hi there,  I'm Toma Kakizaki👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kkzkkakky)
-
-
 ## Career
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
   - Student at Department of Computer Science and Engineering (2017/04 ~ 2022/03)
@@ -22,6 +19,9 @@
   - [EDM: Educational Data Mining](https://educationaldatamining.org/)
   - [BEA: The Broadcast Education Association](https://www.beaweb.org/wp/)
 - Additionally, paying attention to other top conferences about AI/ML like NeurIPS, ICDM, CVPR, and IJCAI.
+
+
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kkzkkakky)
 
 <!--
 **kkzkkakky/kkzkkakky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
