@@ -4,7 +4,7 @@
 - 🤖AI Engineer at [MATSUO INSTITUTE,INC(株式会社松尾研究所)](https://matsuo-institute.com/)
   - PoC/Presales team member (2022/12 ~ 2023/04)
   - Human Resources Projects member (2023/04 ~ present)
-- 👨‍💻Responsible for updating the GCI course (2023/03 ~ present)
+- 👨‍💻Responsible for updating the [GCI(東京大学グローバル消費インテリジェンス寄附講座)](https://gci.t.u-tokyo.ac.jp/) (2023/03 ~ present)
   - GCI = a data science lecture provided by the Matsuo Lab at the University of Tokyo.
 
 
