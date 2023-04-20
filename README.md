@@ -1,7 +1,6 @@
-### Hi there! I'm Toma Kakizaki👋
-# Hi there! I'm Toma Kakizaki👋
+# Hi there,  I'm Toma Kakizaki👋
 
-##### hogehoge
+- I'm studying in National Institute of Technology, Kisarazu College
 
 <!--
 **kkzkkakky/kkzkkakky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
