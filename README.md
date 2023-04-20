@@ -3,7 +3,7 @@
 - 🏫I'm studying in National Institute of Technology, Kisarazu College
 - AI Engineer at [株式会社松尾研究所](https://matsuo-institute.com/)
   - PoC/Presales team member (2022/12 ~ 2023/04)
-  - Human Resources Projects　member (2023/04 ~ present)
+  - Human Resources Projects member (2023/04 ~ present)
 
 <!--
 **kkzkkakky/kkzkkakky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
