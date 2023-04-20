@@ -1,5 +1,8 @@
 # Hi there,  I'm Toma Kakizaki👋
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkzkkakky&show_icons=true&theme=radical)
+
+
 ## Career
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
   - Student at Department of Computer Science and Engineering (2017/04 ~ 2022/03)
