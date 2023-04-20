@@ -1,7 +1,9 @@
 # Hi there,  I'm Toma Kakizaki👋
 
 ### Career
-- 🏫I'm studying in National Institute of Technology, Kisarazu College
+- 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
+  - Student at Department of Computer Science and Engineering (2017/04 ~ 2022/03)
+  - Student at Advanced Course of Control and Information Engineering (2022/04 ~ present)
 - 🤖AI Engineer at [MATSUO INSTITUTE,INC(株式会社松尾研究所)](https://matsuo-institute.com/)
   - PoC/Presales team member (2022/12 ~ 2023/04)
   - Human Resources Projects member (2023/04 ~ present)
