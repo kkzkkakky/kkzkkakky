@@ -1,6 +1,7 @@
 # Hi there,  I'm Toma Kakizaki👋
 
-- I'm studying in National Institute of Technology, Kisarazu College
+- 🏫I'm studying in National Institute of Technology, Kisarazu College
+- AI Engineer at [株式会社松尾研究所](https://matsuo-institute.com/)
 
 <!--
 **kkzkkakky/kkzkkakky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
