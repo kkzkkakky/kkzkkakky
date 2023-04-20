@@ -1,4 +1,6 @@
-## Hi there! I'm Toma Kakizaki👋
+### Hi there! I'm Toma Kakizaki👋
+# Hi there! I'm Toma Kakizaki👋
+
 ##### hogehoge
 
 <!--
