@@ -1,6 +1,6 @@
 # Hi there,  I'm Toma Kakizaki👋
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kkzkkakky&show_icons=true&theme=radical)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kkzkkakky)
 
 
 ## Career
