@@ -16,8 +16,8 @@
 ## Research Interests
 - Passionate about AI/ML applications in the field of education.
 - Keeping an eye on international conferences such as:
-  - EDM: Educational Data Mining
-  - BEA: The Broadcast Education Association
+  - [EDM: Educational Data Mining](https://educationaldatamining.org/)
+  - [BEA: The Broadcast Education Association](https://www.beaweb.org/wp/)
 - Additionally, paying attention to other top conferences about AI/ML like NeurIPS, ICDM, CVPR, and IJCAI.
 
 <!--
