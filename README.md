@@ -16,7 +16,7 @@
   - GCI = a data science lecture provided by the Matsuo Lab at the University of Tokyo.
 
 ## Research Interests
-- I'am passionate about AI/ML applications in the field of education.
+- I'm passionate about AI/ML applications in the field of education.
 - I keep an eye on international conferences such as:
   - [EDM: Educational Data Mining](https://educationaldatamining.org/)
   - [BEA: The Broadcast Education Association](https://www.beaweb.org/wp/)
