@@ -16,11 +16,11 @@
   - GCI = a data science lecture provided by the Matsuo Lab at the University of Tokyo.
 
 ## Research Interests
-- Passionate about AI/ML applications in the field of education.
-- Keeping an eye on international conferences such as:
+- I'am passionate about AI/ML applications in the field of education.
+- I keep an eye on international conferences such as:
   - [EDM: Educational Data Mining](https://educationaldatamining.org/)
   - [BEA: The Broadcast Education Association](https://www.beaweb.org/wp/)
-- Additionally, paying attention to other top conferences about AI/ML like NeurIPS, ICDM, CVPR, and IJCAI.
+- Additionally, I pay attention to other top conferences about AI/ML like NeurIPS, ICDM, CVPR, and IJCAI.
 
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kkzkkakky)
