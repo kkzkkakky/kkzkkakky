@@ -13,7 +13,7 @@
   - PoC/Presales team member (2022/12 ~ 2023/04)
   - Human Resources Projects member (2023/04 ~ present)
 - 👨‍💻Responsible for updating the [GCI(東京大学グローバル消費インテリジェンス寄附講座)](https://gci.t.u-tokyo.ac.jp/) (2023/03 ~ present)
-  - GCI = a data science lecture provided by the Matsuo Lab at the University of Tokyo.
+  - GCI is a data science lecture provided by the Matsuo Lab at the University of Tokyo.
 
 ## Research Interests
 - I'm passionate about AI/ML applications in the field of education.
