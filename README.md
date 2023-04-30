@@ -9,11 +9,11 @@
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
   - Student at Department of Computer Science and Engineering (2017/04 ~ 2022/03)
   - Student at Advanced Course of Control and Information Engineering (2022/04 ~ present)
-
+- 🤖AI Engineer at [株式会社neoAI / neoAI Inc.](https://neoai.jp/) (2023/05 ~ present)
+  - Startup companies with strengths in generative AI
 - 🤖AI Engineer at [MATSUO INSTITUTE,INC(株式会社松尾研究所)](https://matsuo-institute.com/) （2022/12 ~ present）
   - PoC/Presales team member (2022/12 ~ 2023/04)
   - Human Resources Projects member (2023/04 ~ present)
-  
 - 👨‍💻Responsible for updating the [GCI(東京大学グローバル消費インテリジェンス寄附講座)](https://gci.t.u-tokyo.ac.jp/) (2023/03 ~ present)
   - GCI is a data science lecture provided by the Matsuo Lab at the University of Tokyo.
 
