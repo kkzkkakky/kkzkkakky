@@ -1,9 +1,9 @@
 # Hi there,  I'm Toma Kakizaki👋
 
 ## Goals for this year (2023)
-- Master the use of GitHub
 - Gain experience at AI/ML startups
 - Publish a research paper
+- Master the use of GitHub
 
 ## Career
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
