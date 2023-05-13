@@ -3,7 +3,7 @@
 ## Goals for this year (2023)
 - Gain experience at AI/ML startups
 - Publish a research paper
-- Master the use of GitHub
+- Master the use of Git,GitHub
 
 ## Career
 - 🏫I'm studying in [National Institute of Technology, Kisarazu College(木更津工業高等専門学校)](https://www.kisarazu.ac.jp/)
