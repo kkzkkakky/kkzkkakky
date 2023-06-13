@@ -23,10 +23,6 @@
   - [EDM: Educational Data Mining](https://educationaldatamining.org/)
   - [BEA: The Broadcast Education Association](https://www.beaweb.org/wp/)
 - Additionally, I pay attention to other top conferences about AI/ML like NeurIPS, ICDM, CVPR, and IJCAI.
-
-
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kkzkkakky)
-
 <!--
 **kkzkkakky/kkzkkakky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
